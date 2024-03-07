@@ -14,7 +14,7 @@ AstronoMe is your gateway to the wonders of the universe. Whether you're a seaso
 
 ## Installation
 
-This app is deployed on Heroku: [Click Here](https://dashboard.heroku.com/apps/intense-mesa-16836/)
+This app is deployed on Heroku: [Click Here](https://intense-mesa-16836-09494c13dd05.herokuapp.com/)
 
 If you want to deploy this app locally you'll need to do the following:
 
