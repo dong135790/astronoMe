@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "graphql-tag": "^2.12.6",
-    "lunarphase-js": "^2.0.1"
+    "lunarphase-js": "^2.0.1",
+    "mongodb": "^6.4.0"
   }
 }
